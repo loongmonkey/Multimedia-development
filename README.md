@@ -17,7 +17,7 @@
 ## 内容目录
 
 [媒体常用软件](https://github.com/loongmonkey/Multimedia-development/blob/master/媒体常用软件.md) 软件先玩起来，培养兴趣，增加直观感受:sunglasses:
-[ffmpeg-base中文版](https://github.com/loongmonkey/Multimedia-development/blob/master/ffmpeg-basics-cn.md) 音视频必看开源项目:sunglasses:
+[ffmpeg-base中文版](https://github.com/loongmonkey/Multimedia-development/blob/master/ffmpeg-basics-cn.md) 音视频必看开源项目,提供pdf版本供大家下载:sunglasses:
 
 
 
